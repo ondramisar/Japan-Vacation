@@ -108,7 +108,7 @@ Souhrn kolik tedy bylo dohromady a za co utraceno.
 Dohromady tedy celý výlet stál okolo 37 432 Kc.
 Na den 1 931 Kc bez letu a s ubytováním.
 
-![[Pasted image 20210621204209.png]]
+![[Full-graph.png]]
 
 A rozdělení podle sekcí (vychází dohromady méně kvůli kurzu a některé části nemohli být kompletně správně vypočitané):
 - Let 14 254 Kc
@@ -121,7 +121,7 @@ A rozdělení podle sekcí (vychází dohromady méně kvůli kurzu a některé 
 - Aktivity 8 000 yen = okolo 1 565 Kc
 - Suvenýry 20 000 yen = okolo 3 913 Kc
 
-![[Pasted image 20210621210116.png]]
+![[Specifick-graph.png]]
 
 ## Shrnutí na konec
 Na konec bych tedy chtěl jenom říct, že opravdu největší část rozpočtu je cena letu a pokud je možné tak je dobré sehnat opravdu nejvýhodnější let.
