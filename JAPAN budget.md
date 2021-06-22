@@ -2,6 +2,7 @@
 Celý výlet začal 29.8. a končil 10.9.
 Doba v japonsku = 12 dní kde poslední a první jenom půlka (dá se říct tedy 11 dní)
 Směněno 14 955 Kc = 66 000 yen, 3 300 yen zbylo
+(Pro příklad u banky byste k dnešnímu datu 22.6.2021 dostali za 14 955 Kc = 74 292 yen)
 
 ## Letenky
 Cesta byla z Prahy přes Italii
@@ -105,7 +106,7 @@ Souhrn kolik tedy bylo dohromady a za co utraceno.
 - Hotovost 14 955 Kc - okolo 750 Kc z penež co zbylo = 14 205 Kc
 - Bankovní platby 3 987 Kc
 
-Dohromady tedy celý výlet stál okolo 37 432 Kc.
+Dohromady tedy celý výlet stál okolo 37 432 Kc. (S dnešním kurzem 22.6.2021 koruny by výlet vyšel na hodnotu okolo 34 000 Kc)
 Na den 1 931 Kc bez letu a s ubytováním.
 
 ![first](src/Full-graph.png)
